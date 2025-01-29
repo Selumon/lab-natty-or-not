@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ChatGPT e DeepSeek - A Visão de Cada Um ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pesquisa realizada nas IA's genertativas, ChatGPT e DeepSeek. A pergunta é ferita em cada IA e cada uma gerando sua resposta
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e DeepSeek
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi solicitado a cada uma das IA's, que respondesse a seguinte pergunta: Compare as IA's Generativa ChatGPT e DeepSeek, citando as vantagens e desvantagens e cada uma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Cada IA gerou o texto citando as vantagens e desvantagens de cada uma, como foram desenvolvidas, versatilidade, interatividade, facilidade de uso, desempenho e eficiência e o inpacto no mercado. O ChatGPT afirmou que a diferença critica está no alinahmento pólitico, pois o DeepSeek opera pelas diretrizes chinesas. Já o DeepSeek foi mais imparcial, mostrando as vantagens e desvantagesn de ambos e qem qual momento seria mais adequado usar cada um. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ambas as ferramentas têm seus pontos fortes e fracos. O ChatGPT é ideal para quem busca versatilidade e interatividade, enquanto o DeepSeek é a escolha certa para análise de dados e tomada de decisões. A escolha final depende das suas necessidades específicas.  O ChatGPT oferece um desempenho robusto e abrangente, adequado para uma ampla gama de aplicações, mas com um custo de desenvolvimento elevado. O DeepSeek, por sua vez, demonstra que é possível alcançar um desempenho competitivo com investimentos mais modestos, embora enfrente desafios relacionados à censura e preocupações de segurança.
 ```
 
 ### Exemplos e Insigths
